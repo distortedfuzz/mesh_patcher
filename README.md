@@ -4,17 +4,18 @@ A basic mesh patcher that patches each area that is formed by the intersections 
 This project uses Fiboheap by beniz and Polyscope.run.
 
 The project's blog post for further and in depth information:
+
 https://medium.com/me/stats/post/591040c1e646
 
-Some basic demos:
+### Some basic demos:
+
 https://www.youtube.com/watch?v=aO0O1Zah-ac
+
 https://www.youtube.com/watch?v=-vzolp_x7mE
 
 ## Dijkstra's Algorithm
 
-![dijkstra_man](https://github.com/user-attachments/assets/5d28fdb0-d174-48a6-96be-c0a77fc8a061)
 ![dijkstra_man_path](https://github.com/user-attachments/assets/110f4fc4-d1f7-4150-b57c-ac60662c9e66)
-![dijkstra_centaur](https://github.com/user-attachments/assets/09818aeb-3dfd-49d8-8b1d-48ae8bf0ccbc)
 ![dijkstra_centaur_path2](https://github.com/user-attachments/assets/7c0b93f8-2aaf-476c-bc87-d1d45c3dd0b0)
 ![dijkstra_centaur_path1](https://github.com/user-attachments/assets/a30b78c9-3e48-4b1f-90ce-39523199554f)
 
@@ -27,6 +28,8 @@ https://www.youtube.com/watch?v=-vzolp_x7mE
 
 ## Geodesics Between Samples
 ![geodesics_between_samples_man](https://github.com/user-attachments/assets/ec6184f6-1e67-4361-a95d-2660b196bb94)
+![geodesics_between_samples_man_back](https://github.com/user-attachments/assets/e22d7201-c7f9-424a-b437-b9e12685c2f5)
+![geodesics_between_sample_centaur](https://github.com/user-attachments/assets/aedfe600-4177-4ab4-9e74-91a475926f10)
 
 ## Patching
 ![centaur_simple_patch2](https://github.com/user-attachments/assets/7c2b89f2-2a9c-4094-ae0f-1bbd51c8c0ee)
